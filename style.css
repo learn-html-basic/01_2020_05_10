@@ -1,0 +1,118 @@
+*{margin :0;padding:0;}
+
+.trai h3 {
+    font-size: 27px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+.tren {
+    margin-bottom: 29px;
+}
+
+small {
+    text-align: center;
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.cuoi {
+    padding: 10px;
+    height: 194px;
+    padding-top: 2px;
+}
+
+.phai ul li {
+    list-style: none;
+    width: 164px;
+    background: #d14736;
+    margin: 10px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 33px;
+    border: 1px solid #d14736;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.phai ul li:hover {
+    background: white;
+}
+
+.phai ul li:hover > a {
+    color: #d14736;
+}
+
+.phai ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.phai {
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.phan3 {
+    background: #F6DAD7;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.trai a {
+    color: #d14736;
+    text-decoration: none;
+}
+.trai a:hover{
+    text-decoration: underline;
+}
+
+.trai p {
+    color: black;
+}
+
+.trai {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.phan1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.my_page h2 {
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.trai h2 {
+    color: #d14736;
+    font-size: 29px;
+}
+
+.tren h1 {
+    color: white;
+    font-size: 68px;
+}
+.my_page{
+    background: #d14836;
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.my_page .duoi {
+    background: white;
+    color: #d14836;
+}
